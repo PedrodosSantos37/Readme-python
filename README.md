@@ -16,3 +16,7 @@
 <p align='justify'>Desse modo, a Hapvida assume uma postura visionária ao buscar empregar a tecnologia como instrumento catalisador de mudanças positivas na área da saúde. A empresa compreende que a revolução digital pode ser a chave para superar barreiras históricas e transformar radicalmente a experiência dos pacientes.</p>
 
 # A proposta de solução:
+
+<p align='justify'>Segundo informações da Central Nacional de Transplantes, há hoje 65 mil indivíduos em especial, o coração, fazendo parte de 386 desses casos, segundo a Central Nacional de Transplantes. A HapVida reconhece a urgência de aprimorar o monitoramento e oferecer suporte contínuo a esses indivíduos, tornando-se o foco principal do produto.</p> 
+
+<p align='justify'>A HeathTech Solution, em parceria com a HapVida, apresenta o Interwatch Heath como uma resposta direta a essa necessidade, almejando melhorar significativamente a qualidade de vida dos pacientes na fila de transplantes.</p>
