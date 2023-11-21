@@ -11,6 +11,6 @@
 
 # Sobre a problemática!
 
-<p align'justify'>No cenário contemporâneo, a saúde surge como um dos desafios mais complexos e centrais da sociedade. Enfrentando uma gama de questões, desde a crescente casos de transplante de órgãos até os obstáculos no acesso a cuidados médicos adequados.</p>
+<p align='justify'>No cenário contemporâneo, a saúde surge como um dos desafios mais complexos e centrais da sociedade. Enfrentando uma gama de questões, desde a crescente casos de transplante de órgãos até os obstáculos no acesso a cuidados médicos adequados.</p>
 
-<p align'justify'>Desse modo, a Hapvida assume uma postura visionária ao buscar empregar a tecnologia como instrumento catalisador de mudanças positivas na área da saúde. A empresa compreende que a revolução digital pode ser a chave para superar barreiras históricas e transformar radicalmente a experiência dos pacientes.</p>
+<p align='justify'>Desse modo, a Hapvida assume uma postura visionária ao buscar empregar a tecnologia como instrumento catalisador de mudanças positivas na área da saúde. A empresa compreende que a revolução digital pode ser a chave para superar barreiras históricas e transformar radicalmente a experiência dos pacientes.</p>
