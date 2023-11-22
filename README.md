@@ -23,6 +23,8 @@
 
 # O diferencial da solução:
 
-<p align='justify'>O diferencial do Interwatch Heath é que ele é capaz de monitorar continuamente a saúde do paciente e enviar alertas em tempo real para os médicos, permitindo que eles tomem medidas preventivas antes que a condição do paciente piore. Além disso, o ele também é capaz de fornecer informações sobre o histórico médico do paciente, permitindo que os médicos tomem decisões mais informadas sobre o tratamento.</p>
+<p align='justify'>O diferencial do Interwatch Heath é que ele é capaz de monitorar continuamente a saúde do paciente e enviar alertas em tempo real para os médicos, permitindo que eles tomem medidas preventivas antes que a condição do paciente piore.</p> 
+
+<p align='justify'>Além disso, o ele também é capaz de fornecer informações sobre o histórico médico do paciente, permitindo que os médicos tomem decisões mais informadas sobre o tratamento.</p>
 
 Link do vídeo ▶️:
