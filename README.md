@@ -27,4 +27,5 @@
 
 <p align='justify'>Além disso, o ele também é capaz de fornecer informações sobre o histórico médico do paciente, permitindo que os médicos tomem decisões mais informadas sobre o tratamento.</p>
 
+# LINK YOUTUBE
 Link do vídeo ▶️:
