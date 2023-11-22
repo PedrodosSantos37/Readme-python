@@ -9,6 +9,8 @@
 | Pedro P. Santos   |   552047   |   1ESPF   |
 | Rodrigo B.        |   98952    |   1ESPF   |
 
+## Projeto voltado para a disciplina de Python
+
 # Sobre a problemática:
 
 <p align='justify'>No cenário contemporâneo, a saúde surge como um dos desafios mais complexos e centrais da sociedade. Enfrentando uma gama de questões, desde a crescente casos de transplante de órgãos até os obstáculos no acesso a cuidados médicos adequados.</p>
@@ -26,6 +28,14 @@
 <p align='justify'>O diferencial do Interwatch Heath é que ele é capaz de monitorar continuamente a saúde do paciente e enviar alertas em tempo real para os médicos, permitindo que eles tomem medidas preventivas antes que a condição do paciente piore.</p> 
 
 <p align='justify'>Além disso, o ele também é capaz de fornecer informações sobre o histórico médico do paciente, permitindo que os médicos tomem decisões mais informadas sobre o tratamento.</p>
+
+# Bibliotecas necessárias para rodar o programa (passo a passo)
+
+1 - Instale as bibliotecas:
+- pip install requests
+- pip install matplotlib
+  
+2 - Se divirta rodando o seu programa no terminal (Run Python File)! 🚀 
 
 # LINK YOUTUBE
 Link do vídeo ▶️:
