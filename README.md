@@ -23,4 +23,4 @@
 
 # O diferencial da solução:
 
-Link do vídeo[▶️]:
+Link do vídeo ▶️:
