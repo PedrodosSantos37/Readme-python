@@ -1,6 +1,6 @@
 <h1 align="center">FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA - FIAP</h1>
 
-![image](https://github.com/PedrodosSantos37/Readme-python/assets/127102850/f8fd7a2a-ab85-49de-93e4-9fb5917dc879)
+![image align=""](https://github.com/PedrodosSantos37/Readme-python/assets/127102850/f8fd7a2a-ab85-49de-93e4-9fb5917dc879)
 
 # Integrantes do grupo!
 
@@ -20,3 +20,7 @@
 <p align='justify'>Segundo informações da Central Nacional de Transplantes, há hoje 65 mil indivíduos em especial, o coração, fazendo parte de 386 desses casos, segundo a Central Nacional de Transplantes. A HapVida reconhece a urgência de aprimorar o monitoramento e oferecer suporte contínuo a esses indivíduos, tornando-se o foco principal do produto.</p> 
 
 <p align='justify'>A HeathTech Solution, em parceria com a HapVida, apresenta o Interwatch Heath como uma resposta direta a essa necessidade, almejando melhorar significativamente a qualidade de vida dos pacientes na fila de transplantes.</p>
+
+# O diferencial da solução:
+
+Link do vídeo[▶️]:
