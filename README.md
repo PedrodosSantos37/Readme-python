@@ -32,8 +32,8 @@
 ## Bibliotecas necessárias para rodar o programa (passo a passo)
 
 1 - Instale as bibliotecas:
-- pip install requests.
-- pip install matplotlib.
+- pip install requests ou py - (versão do python) -m pip install requests.
+- pip install matplotlib ou py - (versão do python) -m pip install matplotlib.
   
 2 - Se divirta rodando o seu programa no terminal (Run Python File)! 🚀 
 
