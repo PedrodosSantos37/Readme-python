@@ -38,4 +38,4 @@
 2 - Se divirta rodando o seu programa no terminal (Run Python File)! 🚀 
 
 ## LINK YOUTUBE
-Link do vídeo explicativo ▶️:
+Link do vídeo explicativo ▶️: https://www.youtube.com/watch?v=vRMiJqPqvWg
